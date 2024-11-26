@@ -13,6 +13,7 @@ The utility supports logging with timestamps, priority levels (High, Medium, Low
 3. Priority-based Logging: Supports configurable logging levels (High, Medium, Low) to filter messages.
 4. Timestamped Logs: Every log entry is timestamped for accurate tracking.
 5. File-based Logging: Logs are written to a file (taskmanager.log) with each entry on a new line.
+
 How to Use:
 # Clone the repository.
 # Import the Logger class into your Java project.
